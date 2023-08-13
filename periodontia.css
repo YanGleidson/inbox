@@ -1,0 +1,97 @@
+body,html{
+    height: 10px;
+    margin: 10px;
+}
+body{
+  
+    background-color: rgb(201, 238, 247);
+}
+header{
+    background-color:#8cc4e9c7;
+    transition: .9s;
+    width: 100%;
+    z-index: 100;
+    padding: 1px 1px 17px 0px;
+    box-shadow: 4px 5px 7px 3px #57b1d4;
+    float: left;
+    margin-bottom: 50px;   
+     
+}
+#img1{
+    width: 180px;
+    height: 180px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 5px solid rgba(15, 172, 41, 0.623);
+    float: left;
+    box-shadow: 1px 6px 20px 1px #2b3438;
+}
+
+.nomeclinica{
+    color: #034561;
+    font-size: 30px;
+    float:left;
+    padding: 50px 40px;
+    text-shadow: 1px 2px 3px #2b3438;
+    
+}
+
+
+#fotoperiodonto{
+    width: 500px;
+    border-radius: 1% 30%;
+    box-shadow: 1px 10px 10px #2b3438;
+
+}
+ 
+.icon li{
+    
+    display:block;
+    margin-left: 900px;   
+ 
+ }
+
+ #insta{
+     
+    width: 50px;    
+ }
+ #face{
+     width: 50px;
+ }
+ #whats{
+     width: 53px;  
+ }
+
+ h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #034561;
+ }
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+a {
+    
+    color: #034561;
+    text-decoration: none;
+    text-align: center ;
+    padding: 10px;
+    font-size:20px ;  
+} 
+a.ativo{
+    background-color: rgb(181, 220, 252);
+    border-radius: 100px;
+    color: rgb(4, 116, 60);    
+}
+
+footer{
+    margin-top: 1px;
+    padding: 0 10px;
+    background-color:#57b1d4;
+    
+}
+
+
+

@@ -1,0 +1,200 @@
+body,html{
+    height: 10px;
+    margin: 10px;
+}
+body{
+  
+    background-color: rgb(201, 238, 247);
+}
+header{
+    background-color:#8cc4e9c7;
+    transition: .9s;
+    width: 100%;
+    
+    padding: 1px 1px 17px 0px;
+    box-shadow: 4px 5px 6px #57b1d4;
+    float: left;
+    
+     
+}
+#menu{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 80px;
+    font-family: cursive;
+    text-shadow: 1px 1px 2px #2b3438;
+    padding: 90px 40px;
+}
+ a {
+    
+    color: #034561;
+    text-decoration: none;
+    text-align: center ;
+    padding: 10px;
+    font-size:20px ;
+        
+}
+a.ativo{
+    background-color: rgb(181, 220, 252);
+    border-radius: 100px;
+    color: rgb(4, 116, 60);    
+}
+
+
+#servicos .tratamentos{
+    float: right;
+    padding-top: 80px;
+    text-shadow: 1px 1px 1px #2b3438;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0px ;
+    font-family: cursive;
+}
+    
+
+
+#img1{
+    width: 180px;
+    height: 180px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 5px solid rgba(15, 172, 41, 0.623);
+    float: left;
+    box-shadow: 1px 6px 10px #2b3438;
+    
+}
+.caixa1 img{
+  width: 500px;
+  margin-top: 10px;
+  margin-left: 80px;
+  box-shadow: 1px 10px 10px #2b3438;
+  
+}
+#img2{
+    width: 500px;
+    box-shadow: 1px 10px 10px #2b3438;
+  
+}
+#p1{
+    width: 400px;
+    font-size: 21px;
+    color: #2b3438;
+    margin-left:150px;
+    float: left;
+    text-align: justify;
+    text-indent: 50px;
+    margin-top: 40px; 
+    font-family: cursive;
+
+}
+
+
+#p2{
+    width: 400px;
+    font-size: 21px;
+    color: #2b3438;
+    text-align: justify;
+    text-indent: 50px;
+    float:right;
+    margin-right: 200px;
+    margin-top: 50px;
+    font-family: cursive;
+    
+    
+    
+}
+
+
+h1{
+    
+    font-family:cursive;
+    text-align: justify;
+    font-size: 50px;
+    color:#034561 ;
+    text-shadow: 1px 2px 3px #03350e;
+    margin-left: 0px;
+   
+   
+}
+
+#tratamentos{
+    font-family: cursive ;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: #57b1d4;
+    color: #034561;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #2b3438;
+    box-shadow: 1px 2px 4px #2b3438;
+
+}
+
+h2{
+    font-family:cursive;
+   
+}
+
+
+#voltar{
+margin-left: 600px;
+}
+#agenda{
+    
+    padding:  10px 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family:cursive;
+    color: #034561;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px #2b3438;
+
+}
+
+footer{
+    
+    display:flex;
+    margin-top: 10px;
+    padding: 1px;
+    background-color:#57b1d4;
+    box-shadow: 1px 2px 4px #2b3438;
+    
+}
+#contato{
+    color: #03350e;
+    font-family: cursive;
+    text-align:center;
+    padding: 0 10px;
+   
+}
+#sociais{
+    display: flex;
+   padding: 40px 150px;
+    
+}
+#insta{
+width: 60PX;
+}
+#face{
+width: 60PX;
+}
+#whats{
+ width: 60PX;
+}
+    
+.local{
+    padding: 10px 30px;
+}
+
+
+
+    
+
+
+
+
